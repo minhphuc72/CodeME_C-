@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.md": "c",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
